@@ -1,4 +1,4 @@
-package org.example.binarySearch;
+package by.parakhnevich.algorithms.binarySearch;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package org.example.quickSort;
+package by.parakhnevich.algorithms.quickSort;
 
 public class QuickSort {
 

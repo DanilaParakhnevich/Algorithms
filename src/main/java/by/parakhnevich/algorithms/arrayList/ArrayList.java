@@ -1,4 +1,4 @@
-package org.example.arrayList;
+package by.parakhnevich.algorithms.arrayList;
 
 import java.util.Arrays;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package org.example.linkedList;
+package by.parakhnevich.algorithms.linkedList;
 
 import java.util.Objects;
 
